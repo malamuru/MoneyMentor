@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/MoneyMentor/static/css/main.cc0dc405.css",
+    "main.js": "/MoneyMentor/static/js/main.9c046d2d.js",
+    "static/media/wealth.png": "/MoneyMentor/static/media/wealth.841649e6271eab5435c6.png",
+    "static/media/transactions.svg": "/MoneyMentor/static/media/transactions.004d9f02317991455e50b36d9dae2a26.svg",
+    "index.html": "/MoneyMentor/index.html",
+    "static/media/user.svg": "/MoneyMentor/static/media/user.0d3cde29811636d534d72a2ea4f24dad.svg",
+    "static/media/search.svg": "/MoneyMentor/static/media/search.4da02613dcc315ee7fdf5edc7d9d5653.svg",
+    "main.cc0dc405.css.map": "/MoneyMentor/static/css/main.cc0dc405.css.map",
+    "main.9c046d2d.js.map": "/MoneyMentor/static/js/main.9c046d2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc0dc405.css",
+    "static/js/main.9c046d2d.js"
+  ]
+}
